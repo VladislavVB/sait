@@ -1,0 +1,25 @@
+{
+  "name": "sait",
+  "version": "1.0.0",
+  "description": "Сайт",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladislavVB/sait.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladislavVB/sait/issues"
+  },
+  "homepage": "https://github.com/VladislavVB/sait#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
